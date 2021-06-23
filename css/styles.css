@@ -50,10 +50,10 @@ body {
 }
 @media (min-width: 320px) and (max-width: 768px) {
   .heading-content h1 {
-    font-size: 1em;
+    font-size: 1.5em;
   }
   .heading-content h5 {
-    font-size: 0.8em;
+    font-size: 1em;
     color: #1ebba3;
     font-weight: bolder;
   }

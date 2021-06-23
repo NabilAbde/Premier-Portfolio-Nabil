@@ -109,12 +109,15 @@ body {
 
 .bc {
   background: url(../images/logos/screenBc.PNG) no-repeat;
+  min-height: 30rem;
 }
 
 .portfolio {
   background: url(../images/logos/2screenPortfolio.PNG) no-repeat;
+  min-height: 30rem;
 }
 
 .loto {
   background: url(../images/logos/lotoJsPNG.PNG) no-repeat;
+  min-height: 30rem;
 }

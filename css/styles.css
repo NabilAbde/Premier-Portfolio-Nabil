@@ -107,4 +107,14 @@ body {
   cursor: pointer;
 }
 
+.bc {
+  background: url(../images/logos/screenBc.PNG) no-repeat;
+}
 
+.portfolio {
+  background: url(../images/logos/2screenPortfolio.PNG) no-repeat;
+}
+
+.loto {
+  background: url(../images/logos/lotoJsPNG.PNG) no-repeat;
+}
